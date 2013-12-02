@@ -1,7 +1,11 @@
-1.ï¿½nderung der Datei
+1.Änderung der Datei
 
+<<<<<<< HEAD
 2.ï¿½nderung muss verbessert werden
 
 macht das nochmal !!
 
 Super
+=======
+2.Änderung muss verbessert werden
+>>>>>>> parent of 0735110... Update neu1.txt
